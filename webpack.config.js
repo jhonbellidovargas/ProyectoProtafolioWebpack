@@ -95,6 +95,7 @@ module.exports = {
         }
       ]
     }),
+    
     new Dotenv(),
     new CleanWebpackPlugin()
   ],
